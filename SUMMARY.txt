@@ -1,10 +1,30 @@
-TVBox 接口抓取报告  20261112_082204
+TVBox 接口抓取报告  20261102_003004
 ==============================================================
+
+[X4更新专用接口] okhttp/3.15
+  状态: JSON
+  文件: tvbox/X4更新专用接口.json
+  成功URL: https://0.wudaozhe.net/0/666
+
+[X4菠菜pro] okhttp/3.15
+  状态: JSON
+  文件: tvbox/X4菠菜pro.json
+  成功URL: https://0.wudaozhe.net/5/x4pro.json
 
 [裤佬线路] okhttp/3.15
   状态: JSON
   文件: tvbox/裤佬线路.json
   成功URL: https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+
+[X4菠菜园] okhttp/3.15
+  状态: JSON
+  文件: tvbox/X4菠菜园.json
+  成功URL: https://0.wudaozhe.net/5/x4.json
+
+[X4少儿频道] okhttp/3.15
+  状态: JSON
+  文件: tvbox/X4少儿频道.json
+  成功URL: https://0.wudaozhe.net/5/tv少儿.json
 
 [幸福年年] okhttp/3.15
   状态: JSON
@@ -15,11 +35,6 @@ TVBox 接口抓取报告  20261112_082204
   状态: JSON
   文件: tvbox/宝盒.json
   成功URL: http://宝盒接口.top
-
-[无意云] 
-  状态: FAILED
-  文件: None
-  成功URL: 
 
 [饭太硬] okhttp/3.15
   状态: JSON
@@ -69,12 +84,7 @@ TVBox 接口抓取报告  20261112_082204
 [肥猫] okhttp/3.15
   状态: JSON
   文件: tvbox/肥猫.json
-  成功URL: http://肥猫.net
-
-[小虎斑] okhttp/3.15
-  状态: JSON
-  文件: tvbox/小虎斑.json
-  成功URL: http://hb.小虎斑.site:25252/仅供测试
+  成功URL: http://肥猫.net/tv
 
 [肥猫2线] 
   状态: FAILED
@@ -295,6 +305,11 @@ TVBox 接口抓取报告  20261112_082204
   状态: FAILED
   文件: None
   成功URL: 
+
+[小虎斑] okhttp/3.15
+  状态: TEXT
+  文件: tvbox/小虎斑.json
+  成功URL: http://hb.小虎斑.site:25252/仅供测试
 
 [天神] okhttp/3.15
   状态: JSON
